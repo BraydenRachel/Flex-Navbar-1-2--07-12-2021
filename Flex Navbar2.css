@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav{
+    background-color: #6495ed;
+    width: 1200px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 70%;
+
+}
+img{
+    width: 100px;
+    align-self: center;
+
+}
+h1{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
